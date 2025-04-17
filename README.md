@@ -21,7 +21,7 @@ A simple, clean book catalog system built with **Vanilla PHP** and **MySQL**, su
 ## Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/book-management-php.git
+git clone https://github.com/OsamaZ-1/Mini-Library.git
 ```
 
 ## Import the DB
